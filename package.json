@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/truffle-box/optimism-box#readme",
   "devDependencies": {
-    "@eth-optimism/plugins": "^0.0.20",
-    "@truffle/hdwallet-provider": "^1.6.0",
+    "@eth-optimism/plugins": "^1.0.0-alpha.3",
+    "@truffle/hdwallet-provider": "^2.1.15",
     "dotenv": "^8.2.0"
   }
 }
